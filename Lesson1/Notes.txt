@@ -1,0 +1,10 @@
+These notes are updated occassionally as I work through the lessons. They will be unorganized for the first part of the project since this is my first time tackling a project where I want to revisit and relearn several topics from Emerging Web Technologies.
+
+Promises is the central focus of this lesson.
+
+What I know about promises:
+- It calls a function where it will resolve an action or reject it if all ends fails.
+
+Thoughts:
+- There are many more complexities to this but I struggle to wrap my brain around all three of these topics.
+- Promises got the worst of it, while axios and SQLite3 are somewhat easier to understand because I managed to get some time to work with them. I feel I want to give it more time since I didn't get much of a chance to test them during the course.
