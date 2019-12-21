@@ -1,0 +1,20 @@
+Lesson 0: Remembering the Basics
+
+1. Basics
+    - Node Js: Hello world!
+    - Node Js: Async review
+    - Node Js: REST and it's Rules
+    - Express: Hello again, friend.
+    - SQLite 3: Understanding the Basics
+    - HTTP Requests: Basics
+
+2. Exercises
+    - Let's read a file.
+    - Simple REST Api
+    - Express set up
+    - Express set up that pings an API.
+    - Project log list using SQLite3
+    - Axios and HTTP Request basics
+
+3. Personal Task:
+    - Personal Time log for Project Archiver 2019. (See Personal_Task_0.txt for more information).
