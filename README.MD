@@ -13,7 +13,7 @@ Currently covering the following Lessons:
 * Lesson 0: Remembering the basics
   1. Basics
   2. Exercises.
-  3. Personal Task: TBD
+  3. Personal Task: Time log for Archiver 2019
 * Lesson 1: Promises.
   1. Basics
   2. Exercises
